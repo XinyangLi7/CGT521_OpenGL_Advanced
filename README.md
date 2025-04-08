@@ -1,7 +1,8 @@
 # CGT521_OpenGL_Advanced
 OpenGL assignments of advance graphics programming course in 2025 spring
 ## FBO
-![FBO](https://github.com/XinyangLi7/CGT521_OpenGL_Advanced/raw/main/image/fbo.png)
+<img src="https://github.com/XinyangLi7/CGT521_OpenGL_Advanced/raw/main/image/fbo.png" alt="FBO" width="500"/>
+
 
 ## Raycast Demo
 ![raycast](https://github.com/XinyangLi7/CGT521_OpenGL_Advanced/raw/main/image/raycasting.png)
